@@ -2,14 +2,10 @@ body {
   font: 1.2em "Cursive", lucida handwriting;
 }
 
-h1 {
+h1, h2 {
     color: blue;
   }
 
-  h2 {
-    color: blue;
-  }
-
-  p {
+  p, li {
     color: lightblue;
   }
